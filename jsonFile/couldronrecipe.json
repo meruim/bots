@@ -1,0 +1,562 @@
+[
+  {
+    "Buddha_Jumps_Over_the_Wall_Bun": {
+      "Ingredients": {
+        "Wheat": 8,
+        "Large_Scallop": 1,
+        "Abalone": 1,
+        "Lobster": 1,
+        "King_Crab": 1
+      }
+    }
+  },
+  {
+    "Fine_Beef_and_Potato_Stew": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 5,
+        "Potato": 1,
+        "Ginger": 1,
+        "Honey": 1
+      }
+    }
+  },
+  {
+    "Fine_Beef_Rice": {
+      "Ingredients": {
+        "Rice": 5,
+        "Raw_Steak": 4
+      }
+    }
+  },
+  {
+    "Fine_Beef_Stew": {
+      "Ingredients": {
+        "Raw_Steak": 3
+      }
+    }
+  },
+  {
+    "Fine_Black_Pepper_Steak": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 5,
+        "Onion": 1,
+        "Chili": 1,
+        "Pepper": 1
+      }
+    }
+  },
+  {
+    "Fine_Braised_Beef": {
+      "Ingredients": {
+        "Raw_Steak": 8,
+        "Ginger": 1,
+        "Sugarcane": 1,
+        "Honey": 1
+      }
+    }
+  },
+  {
+    "Fine_Braised_Meatballs": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 8,
+        "Mushroom": 1,
+        "Honey": 1,
+        "Ginger": 1
+      }
+    }
+  },
+  {
+    "Fine_Braised_Pork": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 3,
+        "Honey": 1,
+        "Ginger": 1
+      }
+    }
+  },
+  {
+    "Fine_Braised_Pork_Rice": {
+      "Ingredients": {
+        "Rice": 8,
+        "Pork": 4,
+        "Honey": 1,
+        "Ginger": 1
+      }
+    }
+  },
+  {
+    "Fine_Casserole": {
+      "Ingredients": {
+        "Soybean": 2,
+        "Corn": 1,
+        "Carrot": 1
+      }
+    }
+  },
+  {
+    "Fine_Cheese_Berry_Drink": {
+      "Ingredients": {
+        "Strawberry": 5,
+        "Blueberry": 1,
+        "Milk": 1
+      }
+    }
+  },
+  {
+    "Fine_Crab_Rice": {
+      "Ingredients": {
+        "Rice": 5,
+        "Hairy_Crab": 4
+      }
+    }
+  },
+  {
+    "Fine_Cucumber_&_Spinach": {
+      "Ingredients": {
+        "Cucumber": 2,
+        "Spinach": 1
+      }
+    }
+  },
+  {
+    "Fine_Eel_Rice": {
+      "Ingredients": {
+        "Rice": 5,
+        "Eel": 4
+      }
+    }
+  },
+  {
+    "Fine_Family_Rice": {
+      "Ingredients": {
+        "Rice": 8,
+        "Raw_Egg": 3,
+        "Raw_Drumstick": 3
+      }
+    }
+  },
+  {
+    "Fine_Farm_Stew": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 5,
+        "Onion": 1
+      }
+    }
+  },
+  {
+    "Fine_Fried_Steak": {
+      "Ingredients": {
+        "Raw_Steak": "4-6",
+        "Onion": 1,
+        "Chili": 1
+      }
+    }
+  },
+  {
+    "Fine_Fruit_Platter": {
+      "Ingredients": {
+        "Any_Fruits": 8,
+        "Milk": 1
+      }
+    }
+  },
+  {
+    "Fine_Fruit_Salad": {
+      "Ingredients": {
+        "Fruit": 2,
+        "Honey": 1
+      }
+    }
+  },
+  {
+    "Fine_Fruits": {
+      "Ingredients": {
+        "Fruit": "Default"
+      }
+    }
+  },
+  {
+    "Fine_Green_Pepper_Pork": {
+      "Ingredients": {
+        "Green_Pepper": 2,
+        "Raw_Drumstick": 1
+      }
+    }
+  },
+  {
+    "Fine_Grilled_Seafood": {
+      "Ingredients": {
+        "Carp": 2,
+        "Pepper": 1
+      }
+    }
+  },
+  {
+    "Fine_Honey_Lamb_Chops": {
+      "Ingredients": {
+        "Raw_Lamb_Chop": 5,
+        "Honey": 2,
+        "Lemongrass": 1
+      }
+    }
+  },
+  {
+    "Fine_Lamb_Chops": {
+      "Ingredients": {
+        "Raw_Lamb_Chops": 3,
+        "Lemongrass": 1
+      }
+    }
+  },
+  {
+    "Fine_Lamb_Stew": {
+      "Ingredients": {
+        "Raw_Lamp_Chop": 3
+      }
+    }
+  },
+  {
+    "Fine_Lemon_Pork_Ribs": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 9,
+        "Lemon": 3
+      }
+    }
+  },
+  {
+    "Fine_Lobster_Sashimi": {
+      "Ingredients": {
+        "Lobster": 3
+      }
+    }
+  },
+  {
+    "Fine_Magic_Soup": {
+      "Ingredients": {
+        "Poison_Mushroom": 3,
+        "Blowfish": 3
+      }
+    }
+  },
+  {
+    "Fine_Mandarin_Fish": {
+      "Ingredients": {
+        "Mandarin_Fish": 3,
+        "Ginger": 2,
+        "Lemon": 1
+      }
+    }
+  },
+  {
+    "Fine_Marinated_Pork": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 6,
+        "Bamboo_Shoot": 1
+      }
+    }
+  },
+  {
+    "Fine_Meat_&_Rice": {
+      "Ingredients": {
+        "Rice": 1,
+        "Raw_Lamp_Chop": 2
+      }
+    }
+  },
+  {
+    "Fine_Meat_Casserole": {
+      "Ingredients": {
+        "King_Crab": 1,
+        "Lobster": 1,
+        "Bamboo_Shoot": 1
+      }
+    }
+  },
+  {
+    "Fine_Mixed_Grains": {
+      "Ingredients": {
+        "Grains": "Default"
+      }
+    }
+  },
+  {
+    "Fine_Mixed_Vegetables": {
+      "Ingredients": {
+        "Vegetable": 2,
+        "Meat": 1
+      }
+    }
+  },
+  {
+    "Fine_Pepper_Fish_Head": {
+      "Ingredients": {
+        "Carp": 9,
+        "Green_Pepper": 2,
+        "Chili": 1,
+        "Pepper": 1
+      }
+    }
+  },
+  {
+    "Fine_Pepper_Ribs": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 5,
+        "Pepper": 1
+      }
+    }
+  },
+  {
+    "Fine_Pepper_Scallops": {
+      "Ingredients": {
+        "Scallop": 6,
+        "Chili": 2,
+        "Pepper": 1
+      }
+    }
+  },
+  {
+    "Fine_Pork_&_Vegetables": {
+      "Ingredients": {
+        "Raw_Lamp_Chop": 2,
+        "Carrot": 2
+      }
+    }
+  },
+  {
+    "Fine_Pepper_Ribs": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 8,
+        "Seaweed": 5
+      }
+    }
+  },
+  {
+    "Fine_Pork_Rice": {
+      "Ingredients": {
+        "Rice": 3,
+        "Raw_Lamp_Chop": 2,
+        "Carrot": 2
+      }
+    }
+  },
+  {
+    "Fine_Pork_Stew": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 3
+      }
+    }
+  },
+  {
+    "Fine_Rice": {
+      "Ingredients": {
+        "Rice": 3
+      }
+    }
+  },
+  {
+    "Fine_Rice_with_Grains": {
+      "Ingredients": {
+        "Rice": 1,
+        "Wheat": 1,
+        "Taro": 1,
+        "Corn": 1,
+        "Potato": 1
+      }
+    }
+  },
+  {
+    "Fine_Salmon_Sashimi": {
+      "Ingredients": {
+        "Salmon": 3
+      }
+    }
+  },
+  {
+    "Fine_Sea_Food_Rice": {
+      "Ingredients": {
+        "Rice": 3,
+        "Red_Carp": 2
+      }
+    }
+  },
+  {
+    "Fine_Seafood_Sashimi": {
+      "Ingredients": {
+        "Seafood": "Default"
+      }
+    }
+  },
+  {
+    "Fine_Spicy_Potato_Casserole": {
+      "Ingredients": {
+        "Wheat": 8,
+        "Potato": 3,
+        "Chili": 2
+      }
+    }
+  },
+  {
+    "Fine_Spicy_Potatoes": {
+      "Ingredients": {
+        "Potato": 2,
+        "Raw_Steak": 1
+      }
+    }
+  },
+  {
+    "Fine_Spicy_Seafood": {
+      "Ingredients": {
+        "Seafood": 3,
+        "Chili": 2,
+        "Pepper": 1
+      }
+    }
+  },
+  {
+    "Fine_Steam_Seafood": {
+      "Ingredients": {
+        "Seafood": 3,
+        "Ginger": 2,
+        "Lemon": 1
+      }
+    }
+  },
+  {
+    "Fine_Steamed_Hairy_Crabs": {
+      "Ingredients": {
+        "Hairy_Crab": 12,
+        "Ginger": 2,
+        "Lemon": 1
+      }
+    }
+  },
+  {
+    "Fine_Steamed_King_Crab": {
+      "Ingredients": {
+        "King_Crab": 12,
+        "Ginger": 2,
+        "Lemon": 1
+      }
+    }
+  },
+  {
+    "Fine_Steamed_Lobsters": {
+      "Ingredients": {
+        "Lobster": 12,
+        "Ginger": 2,
+        "Lemon": 1
+      }
+    }
+  },
+  {
+    "Fine_Steamed_Lobsters": {
+      "Ingredients": {
+        "Crawfish": 12,
+        "Ginger": 2,
+        "Lemon": 1
+      }
+    }
+  },
+  {
+    "Fine_Steamed_Silver_Pomfret": {
+      "Ingredients": {
+        "Silver_Pomfret": 3,
+        "Ginger": 2,
+        "Lemon": 1
+      }
+    }
+  },
+  {
+    "Fine_Steamed_Tabby_Fish": {
+      "Ingredients": {
+        "Tiger_Grouper": 3,
+        "Ginger": 2,
+        "Lemon": 1
+      }
+    }
+  },
+  {
+    "Fine_Stew": {
+      "Ingredients": {
+        "Cauldron": "Default"
+      }
+    }
+  },
+  {
+    "Fine_Summer_Fruit_Salad": {
+      "Ingredients": {
+        "Different_Fruits": "4x",
+        "Honey": 1
+      }
+    }
+  },
+  {
+    "Fine_Surrender_Lamb_Chops": {
+      "Ingredients": {
+        "Raw_Lamb_Chop": 3,
+        "Pepper": 2,
+        "Lemongrass": 1
+      }
+    }
+  },
+  {
+    "Fine_Sweet_&_Sour_Carp": {
+      "Ingredients": {
+        "Carp": 1,
+        "Honey": 1,
+        "Pepper": 1
+      }
+    }
+  },
+  {
+    "Fine_Sweet_&_Sour_Pork": {
+      "Ingredients": {
+        "Raw_Pork_Chop": 8,
+        "Ginger": 1,
+        "Sugarcane": 1,
+        "Honey": 1
+      }
+    }
+  },
+  {
+    "Fine_Tomahawk_Steak": {
+      "Ingredients": {
+        "Raw_Steak": 7,
+        "Onion": 1,
+        "Chili": 1
+      }
+    }
+  },
+  {
+    "Fine_Tuna_Sashimi": {
+      "Ingredients": {
+        "Tuna": 3
+      }
+    }
+  },
+  {
+    "Fine_Vegetable_Salad": {
+      "Ingredients": {
+        "Vegetable": "Default"
+      }
+    }
+  },
+  {
+    "Meat_Pie": {
+      "Ingredients": {
+        "Wheat": 8,
+        "Raw_Lamb_Chop": 3,
+        "Chili": 2
+      }
+    }
+  },
+  {
+    "White_Bread": {
+      "Ingredients": {
+        "Wheat": 3,
+        "Pepper": 1,
+        "Chili": 1
+      }
+    }
+  }
+]
