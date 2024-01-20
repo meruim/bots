@@ -1,3 +1,2 @@
 node_modules/*
-!node_modules/moment/
-!node_modules/moment-timezone/
+!node_modules/canvas/
